@@ -47,6 +47,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/visheshkumar95647/visheshkumar95647/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
